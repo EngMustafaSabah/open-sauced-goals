@@ -1,8 +1,8 @@
 [
   {
     "full_name": "clue/framework-x",
-    "stargazers_count": 569,
-    "open_issues_count": 5,
+    "stargazers_count": 573,
+    "open_issues_count": 6,
     "forks_count": 33
   },
   {
@@ -13,8 +13,8 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 71240,
-    "open_issues_count": 32,
-    "forks_count": 23043
+    "stargazers_count": 71276,
+    "open_issues_count": 33,
+    "forks_count": 23057
   }
 ]

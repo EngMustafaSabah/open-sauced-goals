@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "meetDeveloper/freeDictionaryAPI",
+    "stargazers_count": 1470,
+    "open_issues_count": 59,
+    "forks_count": 188
+  },
+  {
     "full_name": "clue/framework-x",
-    "stargazers_count": 587,
+    "stargazers_count": 588,
     "open_issues_count": 5,
     "forks_count": 34
   },
@@ -13,8 +19,8 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 71411,
+    "stargazers_count": 71453,
     "open_issues_count": 32,
-    "forks_count": 23097
+    "forks_count": 23105
   }
 ]

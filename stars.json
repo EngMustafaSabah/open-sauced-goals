@@ -1,19 +1,19 @@
 [
   {
     "full_name": "LaravelDaily/Laravel-Roadmap-Learning-Path",
-    "stargazers_count": 5004,
-    "open_issues_count": 0,
+    "stargazers_count": 5010,
+    "open_issues_count": 1,
     "forks_count": 1089
   },
   {
     "full_name": "meetDeveloper/freeDictionaryAPI",
-    "stargazers_count": 2005,
+    "stargazers_count": 2008,
     "open_issues_count": 64,
     "forks_count": 225
   },
   {
     "full_name": "clue/framework-x",
-    "stargazers_count": 742,
+    "stargazers_count": 743,
     "open_issues_count": 7,
     "forks_count": 41
   },
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 74880,
+    "stargazers_count": 74906,
     "open_issues_count": 31,
-    "forks_count": 24012
+    "forks_count": 24016
   }
 ]

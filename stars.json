@@ -1,25 +1,25 @@
 [
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 303761,
+    "stargazers_count": 303980,
     "open_issues_count": 45,
-    "forks_count": 76212
+    "forks_count": 76276
   },
   {
     "full_name": "LaravelDaily/Laravel-Roadmap-Learning-Path",
-    "stargazers_count": 5412,
+    "stargazers_count": 5417,
     "open_issues_count": 2,
     "forks_count": 1194
   },
   {
     "full_name": "meetDeveloper/freeDictionaryAPI",
-    "stargazers_count": 2559,
+    "stargazers_count": 2564,
     "open_issues_count": 82,
-    "forks_count": 257
+    "forks_count": 258
   },
   {
     "full_name": "clue/framework-x",
-    "stargazers_count": 846,
+    "stargazers_count": 847,
     "open_issues_count": 2,
     "forks_count": 52
   },
@@ -31,8 +31,8 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 78040,
-    "open_issues_count": 30,
+    "stargazers_count": 78103,
+    "open_issues_count": 31,
     "forks_count": 23958
   }
 ]

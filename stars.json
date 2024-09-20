@@ -1,27 +1,27 @@
 [
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 304334,
+    "stargazers_count": 304469,
     "open_issues_count": 45,
-    "forks_count": 76380
+    "forks_count": 76414
   },
   {
     "full_name": "LaravelDaily/Laravel-Roadmap-Learning-Path",
-    "stargazers_count": 5424,
+    "stargazers_count": 5427,
     "open_issues_count": 2,
-    "forks_count": 1195
+    "forks_count": 1194
   },
   {
     "full_name": "meetDeveloper/freeDictionaryAPI",
-    "stargazers_count": 2568,
+    "stargazers_count": 2574,
     "open_issues_count": 82,
     "forks_count": 260
   },
   {
     "full_name": "clue/framework-x",
-    "stargazers_count": 860,
-    "open_issues_count": 2,
-    "forks_count": 52
+    "stargazers_count": 861,
+    "open_issues_count": 1,
+    "forks_count": 51
   },
   {
     "full_name": "0x1100010010/perfex-crm",
@@ -31,8 +31,8 @@
   },
   {
     "full_name": "laravel/laravel",
-    "stargazers_count": 78191,
-    "open_issues_count": 31,
-    "forks_count": 23966
+    "stargazers_count": 78224,
+    "open_issues_count": 30,
+    "forks_count": 23975
   }
 ]

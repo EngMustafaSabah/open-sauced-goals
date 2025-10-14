@@ -1,38 +1,182 @@
 [
   {
-    "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 330874,
-    "open_issues_count": 86,
-    "forks_count": 80866
-  },
-  {
-    "full_name": "LaravelDaily/Laravel-Roadmap-Learning-Path",
-    "stargazers_count": 5633,
-    "open_issues_count": 3,
-    "forks_count": 1206
-  },
-  {
-    "full_name": "meetDeveloper/freeDictionaryAPI",
-    "stargazers_count": 3203,
-    "open_issues_count": 102,
-    "forks_count": 295
-  },
-  {
-    "full_name": "clue/framework-x",
-    "stargazers_count": 927,
-    "open_issues_count": 3,
-    "forks_count": 55
-  },
-  {
-    "full_name": "0x1100010010/perfex-crm",
-    "stargazers_count": 9,
+    "full_name": "mayerbalintdev/GYM-One",
+    "stargazers_count": 67,
     "open_issues_count": 1,
+    "forks_count": 18
+  },
+  {
+    "full_name": "Devnawjesh/mad-pharma",
+    "stargazers_count": 79,
+    "open_issues_count": 6,
+    "forks_count": 49
+  },
+  {
+    "full_name": "timschofield/webERP",
+    "stargazers_count": 67,
+    "open_issues_count": 26,
+    "forks_count": 142
+  },
+  {
+    "full_name": "liberu-real-estate/real-estate-laravel",
+    "stargazers_count": 83,
+    "open_issues_count": 32,
+    "forks_count": 42
+  },
+  {
+    "full_name": "atefdiabmohamed/Laravel10_HRMS",
+    "stargazers_count": 56,
+    "open_issues_count": 0,
+    "forks_count": 23
+  },
+  {
+    "full_name": "atefdiabmohamed/laravelpos",
+    "stargazers_count": 156,
+    "open_issues_count": 0,
+    "forks_count": 72
+  },
+  {
+    "full_name": "Dolibarr/dolibarr",
+    "stargazers_count": 6573,
+    "open_issues_count": 1252,
+    "forks_count": 3133
+  },
+  {
+    "full_name": "innocommerce/innoshop",
+    "stargazers_count": 546,
+    "open_issues_count": 15,
+    "forks_count": 152
+  },
+  {
+    "full_name": "velstorelabs/velstore",
+    "stargazers_count": 577,
+    "open_issues_count": 1,
+    "forks_count": 50
+  },
+  {
+    "full_name": "orangehrm/orangehrm",
+    "stargazers_count": 976,
+    "open_issues_count": 101,
+    "forks_count": 661
+  },
+  {
+    "full_name": "YetiForceCompany/YetiForceCRM",
+    "stargazers_count": 1767,
+    "open_issues_count": 83,
+    "forks_count": 773
+  },
+  {
+    "full_name": "espocrm/espocrm",
+    "stargazers_count": 2549,
+    "open_issues_count": 51,
+    "forks_count": 743
+  },
+  {
+    "full_name": "4jean/lav_sms",
+    "stargazers_count": 929,
+    "open_issues_count": 31,
+    "forks_count": 556
+  },
+  {
+    "full_name": "hrshadhin/school-management-system",
+    "stargazers_count": 1059,
+    "open_issues_count": 8,
+    "forks_count": 921
+  },
+  {
+    "full_name": "changeweb/Unifiedtransform",
+    "stargazers_count": 2940,
+    "open_issues_count": 147,
+    "forks_count": 1270
+  },
+  {
+    "full_name": "kelvzxu/erp_laravel",
+    "stargazers_count": 183,
+    "open_issues_count": 10,
+    "forks_count": 78
+  },
+  {
+    "full_name": "aureuserp/aureuserp",
+    "stargazers_count": 7197,
+    "open_issues_count": 61,
+    "forks_count": 274
+  },
+  {
+    "full_name": "gallib/laravel-short-url",
+    "stargazers_count": 166,
+    "open_issues_count": 3,
+    "forks_count": 37
+  },
+  {
+    "full_name": "dmitry-ivanov/laravel-db-profiler",
+    "stargazers_count": 168,
+    "open_issues_count": 0,
+    "forks_count": 20
+  },
+  {
+    "full_name": "iazaran/smart-cache",
+    "stargazers_count": 171,
+    "open_issues_count": 0,
+    "forks_count": 7
+  },
+  {
+    "full_name": "laravel-notification-channels/twitter",
+    "stargazers_count": 174,
+    "open_issues_count": 6,
+    "forks_count": 45
+  },
+  {
+    "full_name": "alphasnow/aliyun-oss-laravel",
+    "stargazers_count": 176,
+    "open_issues_count": 0,
+    "forks_count": 17
+  },
+  {
+    "full_name": "salehhashemi1992/laravel-otp-manager",
+    "stargazers_count": 185,
+    "open_issues_count": 4,
+    "forks_count": 19
+  },
+  {
+    "full_name": "Safemood/laravel-workflow",
+    "stargazers_count": 199,
+    "open_issues_count": 2,
     "forks_count": 8
   },
   {
-    "full_name": "laravel/laravel",
-    "stargazers_count": 82398,
-    "open_issues_count": 31,
-    "forks_count": 24513
+    "full_name": "protonemedia/laravel-paddle",
+    "stargazers_count": 202,
+    "open_issues_count": 5,
+    "forks_count": 16
+  },
+  {
+    "full_name": "orchestral/canvas",
+    "stargazers_count": 208,
+    "open_issues_count": 2,
+    "forks_count": 12
+  },
+  {
+    "full_name": "vizra-ai/vizra-adk",
+    "stargazers_count": 221,
+    "open_issues_count": 8,
+    "forks_count": 17
+  },
+  {
+    "full_name": "makinacorpus/DbToolsBundle",
+    "stargazers_count": 222,
+    "open_issues_count": 39,
+    "forks_count": 16
+  },
+  {
+    "full_name": "AkrilliA/laravel-beyond",
+    "stargazers_count": 225,
+    "open_issues_count": 0,
+    "forks_count": 24
+  },
+  {
+    "full_name": "neelkanthk/laravel-surveillance",
+    "stargazers_count": 225,
+    "open_issues_count": 4,
+    "forks_count": 16
   }
 ]

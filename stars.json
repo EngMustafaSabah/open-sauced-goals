@@ -13,8 +13,8 @@
   },
   {
     "full_name": "mayerbalintdev/GYM-One",
-    "stargazers_count": 221,
-    "open_issues_count": 0,
+    "stargazers_count": 222,
+    "open_issues_count": 1,
     "forks_count": 64
   },
   {
@@ -32,8 +32,8 @@
   {
     "full_name": "liberusoftware/real-estate-laravel",
     "stargazers_count": 115,
-    "open_issues_count": 0,
-    "forks_count": 70
+    "open_issues_count": 4,
+    "forks_count": 71
   },
   {
     "full_name": "atefdiabmohamed/Laravel10_HRMS",
@@ -49,45 +49,45 @@
   },
   {
     "full_name": "Dolibarr/dolibarr",
-    "stargazers_count": 7806,
-    "open_issues_count": 947,
-    "forks_count": 3599
+    "stargazers_count": 7824,
+    "open_issues_count": 993,
+    "forks_count": 3602
   },
   {
     "full_name": "innocommerce/innoshop",
-    "stargazers_count": 667,
-    "open_issues_count": 5,
+    "stargazers_count": 668,
+    "open_issues_count": 29,
     "forks_count": 193
   },
   {
     "full_name": "velstorelabs/velstore",
-    "stargazers_count": 660,
+    "stargazers_count": 658,
     "open_issues_count": 7,
     "forks_count": 89
   },
   {
     "full_name": "orangehrm/orangehrm",
-    "stargazers_count": 1159,
+    "stargazers_count": 1160,
     "open_issues_count": 113,
-    "forks_count": 764
+    "forks_count": 765
   },
   {
     "full_name": "YetiForceCompany/YetiForceCRM",
-    "stargazers_count": 1791,
+    "stargazers_count": 1790,
     "open_issues_count": 83,
-    "forks_count": 772
+    "forks_count": 771
   },
   {
     "full_name": "espocrm/espocrm",
-    "stargazers_count": 3534,
-    "open_issues_count": 67,
-    "forks_count": 1013
+    "stargazers_count": 3543,
+    "open_issues_count": 66,
+    "forks_count": 1018
   },
   {
     "full_name": "4jean/lav_sms",
-    "stargazers_count": 1155,
+    "stargazers_count": 1166,
     "open_issues_count": 36,
-    "forks_count": 701
+    "forks_count": 709
   },
   {
     "full_name": "hrshadhin/school-management-system",
@@ -99,7 +99,7 @@
     "full_name": "changeweb/Unifiedtransform",
     "stargazers_count": 3003,
     "open_issues_count": 166,
-    "forks_count": 1286
+    "forks_count": 1288
   },
   {
     "full_name": "kelvzxu/erp_laravel",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "aureuserp/aureuserp",
-    "stargazers_count": 12139,
-    "open_issues_count": 43,
-    "forks_count": 611
+    "stargazers_count": 12158,
+    "open_issues_count": 38,
+    "forks_count": 615
   },
   {
     "full_name": "gallib/laravel-short-url",

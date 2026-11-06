@@ -13,8 +13,8 @@
   },
   {
     "full_name": "mayerbalintdev/GYM-One",
-    "stargazers_count": 222,
-    "open_issues_count": 1,
+    "stargazers_count": 223,
+    "open_issues_count": 0,
     "forks_count": 64
   },
   {
@@ -26,14 +26,14 @@
   {
     "full_name": "timschofield/webERP",
     "stargazers_count": 101,
-    "open_issues_count": 33,
+    "open_issues_count": 35,
     "forks_count": 157
   },
   {
-    "full_name": "liberusoftware/real-estate-laravel",
+    "full_name": "liberusoftware/project-real-estate-laravel-filament",
     "stargazers_count": 115,
-    "open_issues_count": 4,
-    "forks_count": 71
+    "open_issues_count": 6,
+    "forks_count": 72
   },
   {
     "full_name": "atefdiabmohamed/Laravel10_HRMS",
@@ -45,19 +45,19 @@
     "full_name": "atefdiabmohamed/laravelpos",
     "stargazers_count": 157,
     "open_issues_count": 0,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "Dolibarr/dolibarr",
-    "stargazers_count": 7824,
-    "open_issues_count": 993,
-    "forks_count": 3602
+    "stargazers_count": 7835,
+    "open_issues_count": 969,
+    "forks_count": 3611
   },
   {
     "full_name": "innocommerce/innoshop",
-    "stargazers_count": 668,
+    "stargazers_count": 669,
     "open_issues_count": 29,
-    "forks_count": 193
+    "forks_count": 195
   },
   {
     "full_name": "velstorelabs/velstore",
@@ -79,39 +79,39 @@
   },
   {
     "full_name": "espocrm/espocrm",
-    "stargazers_count": 3543,
+    "stargazers_count": 3551,
     "open_issues_count": 66,
-    "forks_count": 1018
+    "forks_count": 1021
   },
   {
     "full_name": "4jean/lav_sms",
-    "stargazers_count": 1166,
+    "stargazers_count": 1172,
     "open_issues_count": 36,
-    "forks_count": 709
+    "forks_count": 712
   },
   {
     "full_name": "hrshadhin/school-management-system",
-    "stargazers_count": 1152,
-    "open_issues_count": 21,
-    "forks_count": 995
+    "stargazers_count": 1154,
+    "open_issues_count": 20,
+    "forks_count": 994
   },
   {
     "full_name": "changeweb/Unifiedtransform",
-    "stargazers_count": 3003,
+    "stargazers_count": 3004,
     "open_issues_count": 166,
-    "forks_count": 1288
+    "forks_count": 1289
   },
   {
     "full_name": "kelvzxu/erp_laravel",
-    "stargazers_count": 182,
+    "stargazers_count": 183,
     "open_issues_count": 10,
     "forks_count": 79
   },
   {
     "full_name": "aureuserp/aureuserp",
-    "stargazers_count": 12158,
-    "open_issues_count": 38,
-    "forks_count": 615
+    "stargazers_count": 12174,
+    "open_issues_count": 42,
+    "forks_count": 619
   },
   {
     "full_name": "gallib/laravel-short-url",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "alphasnow/aliyun-oss-laravel",
-    "stargazers_count": 182,
+    "stargazers_count": 181,
     "open_issues_count": 0,
     "forks_count": 17
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "Safemood/laravel-workflow",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 2,
     "forks_count": 9
   },
